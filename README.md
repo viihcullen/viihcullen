@@ -1,5 +1,5 @@
 ### Olá👋
-![Gato astronauta](https://myoctocat.com/assets/images/base-octocat.svg](https://img.freepik.com/vetores-gratis/astronauta-de-gato-bonito-com-ilustracao-de-icone-de-vetor-de-desenhos-animados-do-planeta-animal-science-icone-conceito-isolado-vetor-premium-estilo-flat-cartoon_138676-3756.jpg?w=2000)
+
 <!--
 **viihcullen/viihcullen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
